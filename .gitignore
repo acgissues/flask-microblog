@@ -1,5 +1,5 @@
 /__pycache__/
 .flaskenv
-.idea
+.idea/**
 app.db
 /venv/
